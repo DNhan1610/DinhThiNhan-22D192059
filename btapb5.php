@@ -17,7 +17,7 @@ echo "Kết nối thành công";
 // $name = "Dinh Nhan";
 // $gender = "Male";
 // $contact_no = "0347777695";
-// $email = "hellochao@gmail.com";
+// $email = "dinhan@gmail.com";
 // $city = "Bac Giang";
 // $country = "Vietnam";
 
